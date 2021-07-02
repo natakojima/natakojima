@@ -2,7 +2,7 @@
 
 # -la nata was here!
 Mi nombre es Nata, pero me puedes llamar *Nati* o *Nat*.
-Tengo 26 años, vivo en Colombia, y soy freelancer desde hace 10 años. Me considero furry, otaku, apasionado por la informática y la comunidad **#OpenSource**. Por lo que me apasiona estar constantemente aprendiendo y viviendo cosas únicas todos los días.
+Tengo 27 años, vivo en Colombia, y soy freelancer desde hace 10 años. Me considero furry, otaku, apasionado por la informática y la comunidad **#OpenSource**. Por lo que me apasiona estar constantemente aprendiendo y viviendo cosas únicas todos los días.
 
 ---
 
@@ -15,7 +15,7 @@ Actualmente manejo el proyecto, [@**nekodemia**](https://github.com/nekodemia). 
 |1|[@yumekoyobot](https://twitter.com/yumekoyobot)|indev
 |2|[@minimarouette](https://twitter.com/minimarouette)|indev
 
-Desde 2015, desarrollo de forma personal paginas web en *HTML・CSS・JS*, y plantillas de diseño para Blogger y Tumblr. y desde 2018, cosas en *Node*, *Electron* y *React*. 
+Desde 2015, desarrollo de forma personal paginas y sitios web en *HTML・CSS・JS*, y plantillas de diseño para *Blogger* y *Tumblr*. Desde 2018, cosas en *Node*, *Electron* y *React*. 
 
 Hay cosas que estoy desarrollando sobre la marcha, que aun no listo en la tabla, pero aparecerán tan pronto estén *oc*.
 
